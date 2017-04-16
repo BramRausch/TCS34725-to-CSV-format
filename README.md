@@ -1,4 +1,4 @@
-# TCS34725-to-CSV-format
+# TCS34725 to CSV
 Output TCS34725 sensor data in CSV format
 
 ## Wiring
